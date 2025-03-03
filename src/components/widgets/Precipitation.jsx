@@ -1,6 +1,6 @@
 import { useSelector } from "react-redux";
 import { IoWaterSharp } from "react-icons/io5";
-import { useGetCurrentWeatherQuery } from "../../services/WeatherAPI";
+import { useGetCurrentWeatherQuery } from "../../services/WeatherApi";
 
 function Precipitation() {
   //   Access to RTX Query cashed data
