@@ -1,6 +1,6 @@
 import { BsSunriseFill, BsSunsetFill } from "react-icons/bs";
 import { useSelector } from "react-redux";
-import { useGetCurrentWeatherQuery } from "../../services/WeatherAPI";
+import { useGetCurrentWeatherQuery } from "../../services/WeatherApi";
 
 const SunsetSunrise = () => {
   //   Access to RTX Query cashed data
