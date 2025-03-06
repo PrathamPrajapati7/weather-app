@@ -1,4 +1,4 @@
-# Weather App ✨
+# Weather App 
 
 ## Features
 
@@ -7,6 +7,7 @@
 * View a 10-day forecast for the selected location
 * View a map of the selected location using Leaflet
 * View chart of probability of precipitation over the next 6 hours using Chart.js
+* It also saves recent searches a user has made
 
 ## Dependencies
 
@@ -26,7 +27,7 @@ This project uses the following dependencies:
 * use-places-autocomplete - A React hook for implementing Google Places Autocomplete in application.
 * leaflet - A JavaScript library for mobile-friendly interactive maps.
 
-### Back-end ⚒️
+### Back-end ⚒
 * Github Pages
 
 ### APIs Used
