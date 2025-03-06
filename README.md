@@ -1,11 +1,5 @@
 # Weather App ✨
 
-This is a simple weather application built with React and Vite. It allows users to search for a city and get the current weather conditions for that location.
-
-<img width="1702" alt="Screenshot-dark-mode" src="https://user-images.githubusercontent.com/64962012/223087582-f94a7e11-6dfa-47ec-a272-a78fc857fbe1.png">
-
-[**View demo**](https://dariuslukasukas.github.io/weather-app-vite/) 
-
 ## Features
 
 * Search for weather information by city name or ZIP code
@@ -18,7 +12,7 @@ This is a simple weather application built with React and Vite. It allows users 
 
 This project uses the following dependencies:
 
-### Front-end 🎨
+### Front-end 
 * tailwind CSS - A utility-first CSS framework packed with classes.
 * headlessui/react - A set of completely unstyled, fully accessible UI components for React.
 * react-redux - A package that provides bindings for React to use Redux.
@@ -39,7 +33,6 @@ This project uses the following dependencies:
 
 This project uses the following APIs:
 
-* Google Places API - used to search for locations and autocomplete
 * OpenWeather API - used to retrieve weather data and map layer for a given location
 * OpenMeteo API - used to retrieve UV Index data for a given location
 * Stadia Maps API - used to style map tiles.
@@ -61,6 +54,3 @@ To use this application, simply enter the name of a city in the search bar and p
 
 If you'd like to contribute to this project, please open an issue or submit a pull request. Contributions are always welcome!
 
-## License
-
-This project is licensed under the MIT License.
